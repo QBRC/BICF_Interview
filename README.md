@@ -27,7 +27,7 @@ Exercise 3
 https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html
 
 2) Using the TGCGbiolinks commands:
-* Retrieve gene expression and clinical data from for TCGA-KICH.
-* Normalized and filter the expression data using the TCGAanalyze_Filtering command.
-* Cluster the filtered expression data using two different Hierarchical clustering methods.
-* Plot Survival curves of the different clusters identified in c).
+* Retrieve gene expression and clinical data for TCGA-KICH.
+* Normalize and filter the expression data using the TCGAanalyze_Filtering command.
+* Cluster the filtered expression data using two different hierarchical clustering methods.
+* Plot Survival curves of the different clusters identified above.
