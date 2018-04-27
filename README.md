@@ -17,7 +17,7 @@ Answer these questions in 1-2 pages:
 
 Exercise 2
 ==========
-Read the directions in the 'pileup-script-drections' document.  The 'BL6_x_Cast_RNA.pileup' contains the data to be analyzed.  Please provide your script and the results file.
+Read the directions in the 'pileup-script-directions' document.  The 'BL6_x_Cast_RNA.pileup' contains the data to be analyzed.  Please provide your script and the results file.
 
 
 Exercise 3
